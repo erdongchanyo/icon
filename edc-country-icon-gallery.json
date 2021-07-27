@@ -1,0 +1,26 @@
+{
+"name":"EDC Country Icon", 
+"description":"Desing By ErdongChan.", 
+"icons":
+[
+	{"name":"CN", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/CN.png"},  
+	{"name":"HK02", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/HK02.png"}, 
+	{"name":"TW02", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/TW02.png"}, 
+	{"name":"JP", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/JP.png"},
+	{"name":"KR", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/KR.png"},
+	{"name":"SG", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/SG.png"},
+	{"name":"US", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/US.png"},
+	{"name":"UK", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/UK.png"},
+	{"name":"AR", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/AR.png"},
+	{"name":"AU", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/AU.png"},
+	{"name":"CA", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/CA.png"},
+	{"name":"DE", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/DE.png"},
+	{"name":"FR", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/FR.png"},
+	{"name":"IN", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/IN.png"},
+	{"name":"IT", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/IT.png"},
+	{"name":"LU", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/LU.png"},
+	{"name":"MN", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/MN.png"},
+	{"name":"RU", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/RU.png"},
+	{"name":"TR", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Policy-Country\/TR.png"},	
+]
+}

@@ -1,0 +1,11 @@
+{
+"name":"EDC Airport Icon", 
+"description":"Desing By ErdongChan.", 
+"icons":
+[	
+	{"name":"Dler", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Dler.png"},
+	{"name":"Element", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Element.png"},
+	{"name":"Mielink", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Mielink.png"},
+	{"name":"Prpr", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Prpr.png"},
+]
+}

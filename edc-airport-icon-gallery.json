@@ -4,14 +4,11 @@
 "icons":
 [
 	{"name":"EDC", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/EDC.png"},
-	{"name":"Dler", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Dler.png"},
-	{"name":"Element", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Element.png"},
-	{"name":"Mielink", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Mielink.png"},
 	{"name":"Prpr", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Prpr.png"},
-	{"name":"Hxlm", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Hxlm.png"},
 	{"name":"Skicat", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Skicat.png"},
-	{"name":"Paolu", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Paolu.png"},
 	{"name":"Ssp", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Ssp.png"},
-	{"name":"Imm", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Imm.png"},
+	{"name":"Paolu", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Paolu.png"},
+	{"name":"Mielink", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Mielink.png"},
+	{"name":"Hxlm", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Hxlm.png"},
 ]
 }

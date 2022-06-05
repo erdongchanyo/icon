@@ -1,15 +1,19 @@
 {
 "name":"EDC Airport Icon", 
-"description":"Desing By ErdongChan.", 
+"description":"Collected By ErdongChan.", 
 "icons":
 [
 	{"name":"EDC", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/EDC.png"},
 	{"name":"Prpr", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Prpr.png"},
-	{"name":"FastFrog", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/FastFrog.png"},
 	{"name":"Skicat", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Skicat.png"},
 	{"name":"Ssp", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Ssp.png"},
+	{"name":"Element", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Element.png"},
+	{"name":"Imm", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Imm.png"},
+	{"name":"Huacloud", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/huacloud.png"},
+	{"name":"FastFrog", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/FastFrog.png"},
 	{"name":"Paolu", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Paolu.png"},
 	{"name":"Mielink", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Mielink.png"},
 	{"name":"Hxlm", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Hxlm.png"},
+	{"name":"Kele", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/kele.png"},
 ]
 }

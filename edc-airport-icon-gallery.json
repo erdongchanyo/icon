@@ -3,19 +3,14 @@
 "description":"Collected By ErdongChan.", 
 "icons":
 [
-	{"name":"EDC", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/EDC.png"},
 	{"name":"Prpr", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Prpr.png"},
-	{"name":"Skicat", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Skicat.png"},
-	{"name":"Ssp", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Ssp.png"},
+	{"name":"花云", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/huacloud.png"},
+	{"name":"少数派", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Ssp.png"},
 	{"name":"Element", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Element.png"},
-	{"name":"BaiYueGuang", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/baiyueguang.png"},
-	{"name":"Imm", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Imm.png"},
-	{"name":"Huacloud", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/huacloud.png"},
-	{"name":"FastFrog", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/FastFrog.png"},
-	{"name":"Paolu", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Paolu.png"},
-	{"name":"Mielink", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Mielink.png"},
-	{"name":"Hxlm", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Hxlm.png"},
+	{"name":"溜冰猫", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Skicat.png"},
+	{"name":"白月光", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/baiyueguang.png"},
+	{"name":"P跑路", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Paolu.png"},
+	{"name":"火星联盟", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/Hxlm.png"},
 	{"name":"Kele", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/kele.png"},
-	{"name":"RiceStore", "url":"https:\/\/raw.githubusercontent.com\/erdongchanyo\/icon/main\/Airport\/RiceStore.png"},
 ]
 }
